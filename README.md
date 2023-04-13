@@ -9,4 +9,4 @@
 - 📫 How to reach me: [mathieu.eveillard@twofortyfive.io](mathieu.eveillard@twofortyfive.io)
 - 😄 Pronouns: he/him
 - 🔭 I’m currently writing a book: Practical FP (functional programming made practical)
-- ⚡ Fun fact: I run the marathon in [2h33](https://berlin.r.mikatiming.com/2022/?content=detail&fpid=search&pid=search&idp=HCH3C0OH4BC2B&lang=EN_CAP&event=BML&lang=EN_CAP&search%5Bname%5D=eveillard&search%5Bfirstname%5D=mathieu&search_event=ALL) (Berlin 2022). Next target will be to run sub 2h30 in Rotterdam, next April.
+- ⚡ Fun fact: I run the marathon in [2h33](https://berlin.r.mikatiming.com/2022/?content=detail&fpid=search&pid=search&idp=HCH3C0OH4BC2B&lang=EN_CAP&event=BML&lang=EN_CAP&search%5Bname%5D=eveillard&search%5Bfirstname%5D=mathieu&search_event=ALL) (Berlin, 2022). And half a marathon in [1h10](https://resultscui.active.com/participants/43182862) (Paris, 2023).
